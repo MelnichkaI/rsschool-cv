@@ -9,7 +9,7 @@
 ## Summary
 My goal is to compleate the course JS/Frontend-developer. Stage0. My strengths: persistence, perseveranse, desire to learn new things in front-end development.
 
-## Educatoin
+# Educatoin
 Internation Sakharov Environmental University, Ecologist.
 
 ## Languages
