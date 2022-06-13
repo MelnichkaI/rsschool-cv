@@ -1,2 +1,39 @@
-body {font-size: 16px;}
-h1 {font-size: 2em;}
+.header {
+ border: 1px solid plum;
+}
+.main {
+ border: 60px solid violet;
+}
+.footer {
+ border: 1px solid greenyellow;
+}
+
+body {
+ display: flex;
+ flex-direction: column;
+ justify-content: space-between;
+ min-height: 100vh;
+ margin: 0;
+ padding: 0;
+}
+
+.container {
+ max-width: 1440px;
+ margin: o auto;
+}
+
+.nav-list {
+ display: flex;
+ justify-content: flex-end;
+ align-items: center;
+ list-style: none;
+}
+
+.nav-link {
+ padding: 0 20px;
+ line-height: 10px;
+}
+
+html {
+ scroll-behavior: smooth;
+}
